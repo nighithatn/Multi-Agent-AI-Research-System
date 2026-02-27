@@ -106,7 +106,6 @@ class AiResearch():
             verbose=True,
         )
 ```
-
 ---
 
 ### 🔹 main.py
